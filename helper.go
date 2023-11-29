@@ -14,7 +14,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/GoAdminGroup/go-admin/modules/utils"
+	"github.com/kamruljpi/go-admin/modules/utils"
 	"github.com/mgutz/ansi"
 )
 
